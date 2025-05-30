@@ -112,7 +112,7 @@ class ArithmeticCubitView extends StatelessWidget {
                   return Text(
                     'Result: $state',
                     style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-                    textAlign: TextAlign.center, // hello
+                    textAlign: TextAlign.center,
                   );
                 },
               ),
